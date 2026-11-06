@@ -2,7 +2,7 @@
 
 **Subject:** BCS554 - HTML & CSS Development Lab
 
-**Student Name:** Mohd Javed Khan
+**Student Name:** Suman
 
 **Roll Number:** Enter Your Roll Number
 
