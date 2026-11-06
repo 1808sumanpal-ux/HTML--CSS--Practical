@@ -3,7 +3,7 @@
 
 **Subject:** BCS554 - HTML & CSS Development Lab
 
-**Student Name:** Anurag Kumar
+**Student Name:** Suman
 
 **Roll Number:** Enter Your Roll Number
 
